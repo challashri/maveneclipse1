@@ -3,16 +3,6 @@
   <groupId>maveneclipse</groupId>
   <artifactId>maveneclipse1</artifactId>
   <version>0.0.1-SNAPSHOT</version>
-  <exclusions>
-  <exclusion>
-    <artifactId>commons-math3</artifactId>
-    <groupId>commons-math3</groupId>
-  </exclusion>
-  <exclusion>
-    <artifactId>commons-pool2</artifactId>
-    <groupId>commons-pool2</groupId>
-  </exclusion>
-</exclusions>
   <dependencies> 
    <dependency>
    <groupId>org.apache.commons</groupId>
